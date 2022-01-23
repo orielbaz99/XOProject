@@ -1,14 +1,3 @@
-# board
-# display board
-# play game
-# handle turn
-# check win
-#   # rows/
-#   # columns/
-#   #diagonals/
-# check tie
-# flip player
-
 # game board
 board = [['_', '_', '_'], ['_', '_', '_'], ['_', '_', '_']]
 
